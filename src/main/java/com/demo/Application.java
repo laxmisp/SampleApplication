@@ -1,6 +1,6 @@
 // https://spring.io/guides/gs/spring-boot/
 
-package main.java.com.demo;
+package com.demo;
 
 import java.util.Arrays;
 
