@@ -1,4 +1,4 @@
-package main.java.com.demo;
+package com.demo;
 
 
 // We can execute using web url http://localhost:8080/
