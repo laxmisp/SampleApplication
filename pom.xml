@@ -16,17 +16,8 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-<<<<<<< HEAD
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
-    </dependencies>
      
-=======
     </dependencies>
->>>>>>> 46c676f9ca08df00e61e8d3704d32ae571551d9c
     <build>
         <plugins>
 
